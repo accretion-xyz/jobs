@@ -6,7 +6,7 @@ Welcome to our careers page! We're excited that you're interested in joining our
 
 | Role | Location | Level | Details |
 |------|----------|-------|----------|
-| Solana Auditor | Remote | Senior | [View Details](positions/solana-auditor.md) |
+| Solana Auditor | Remote | Any | [View Details](positions/solana-auditor.md) |
 
 ## How to Apply
 
