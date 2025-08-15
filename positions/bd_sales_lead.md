@@ -70,7 +70,7 @@ We need a hungry BD professional who already has relationships in the Solana eco
 
 ## How to Apply
 
-Send the following to careers@accretion.xyz and pink t.me/robrto:
+Send the following to careers@accretion.xyz and ping t.me/robrto:
 
 1. **Your LinkedIn** showing crypto/Web3 experience (or a CV listing your experience)
 2. **Three Solana protocols** you could get meetings with tomorrow
