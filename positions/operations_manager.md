@@ -74,7 +74,7 @@ Rob should be finding bugs and closing deals, not chasing invoices and managing 
 
 ## How to Apply
 
-Send the following to careers@accretion.xyz and ping t.me/robrto:
+Send the following to careers@accretion.xyz and ping [@r0bre](https://t.me/robrto):
 
 1. **Your resume** highlighting operations wins
 2. **A brief note** on how you'd streamline our business operations

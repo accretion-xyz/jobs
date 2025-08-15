@@ -42,7 +42,8 @@ Looking for a sharp security auditor to help us hunt bugs in Solana programs. Yo
 * Help shape security standards in the ecosystem
 
 ## How to Apply
-Send us:
+Send the following to careers@accretion.xyz and ping [@r0bre](https://t.me/robrto):
+
 * Your resume
 * Links to your public security work
 * A write-up of your favorite bug find (Solana preferred, but not required)

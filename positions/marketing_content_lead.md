@@ -72,7 +72,7 @@ You'll own our entire content strategy, growing our presence and generating inbo
 
 ## How to Apply
 
-Send the following to careers@accretion.xyz and ping t.me/robrto:
+Send the following to careers@accretion.xyz and ping [@r0bre](https://t.me/robrto):
 
 1. **Your best crypto content** (threads, blogs, videos - whatever)
 2. **Your strategy** for growing our social media presence
