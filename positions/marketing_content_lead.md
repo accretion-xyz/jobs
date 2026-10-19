@@ -42,7 +42,7 @@ We'll discuss compensation and benefits based on experience, scope, and whether 
 
 ## How to Apply
 
-Email careers@accretion.xyz with the subject **Marketing & Content Lead - [Your Name]** and include:
+Email careers@accretion.xyz and ping [@r0bre on Telegram](https://t.me/robrto). Use the subject **Marketing & Content Lead - [Your Name]** and include:
 
 1. **Two or three relevant published samples**, including at least one technical piece. Explain your contribution if others were involved.
 2. **One content program or campaign you owned:** its audience, goal, distribution, and results. Include metrics where available and explain what they measure.

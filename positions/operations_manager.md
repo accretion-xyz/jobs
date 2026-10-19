@@ -42,7 +42,7 @@ We'll discuss compensation and benefits based on experience and the agreed scope
 
 ## How to Apply
 
-Email careers@accretion.xyz with the subject **Operations Manager - [Your Name]** and include:
+Email careers@accretion.xyz and ping [@r0bre on Telegram](https://t.me/robrto). Use the subject **Operations Manager - [Your Name]** and include:
 
 1. **Your CV or profile**, highlighting the business operations you've personally owned.
 2. **One or two concrete examples of your work.** Describe the starting problem, what you changed, and the result. Include at least one example relevant to client engagements, billing, contracts, or contractor administration.

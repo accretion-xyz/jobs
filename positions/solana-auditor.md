@@ -49,7 +49,7 @@ Course certificates, tutorial projects, CTF participation, contest rankings, or 
 
 ## How to Apply
 
-Email careers@accretion.xyz with the subject **Senior Solana Security Auditor - [Your Name]** and include:
+Email careers@accretion.xyz and ping [@r0bre on Telegram](https://t.me/robrto). Use the subject **Senior Solana Security Auditor - [Your Name]** and include:
 
 1. **A short summary of your relevant experience**, with a CV or profile link if useful.
 2. **Two or three of your strongest findings or research examples.** For each, link the report, write-up, or proof of concept where available and explain the root cause, impact, and your personal contribution. Include substantive Solana work so we can assess your readiness for this role.

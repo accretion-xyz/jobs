@@ -18,7 +18,7 @@ We audit Solana programs and research vulnerabilities in the Solana ecosystem. W
 
 ## How to Apply
 
-Follow the instructions in the relevant listing and send your application to careers@accretion.xyz. Include the requested examples of your work and explain your personal contribution.
+Follow the instructions in the relevant listing, send your application to careers@accretion.xyz, and ping [@r0bre on Telegram](https://t.me/robrto). Include the requested examples of your work and explain your personal contribution.
 
 We review applications against the requirements for each role and contact candidates we'd like to speak with. We can't promise an individual response or a fixed response time to every applicant.
 
